@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nur Mohammad Rafi\\Downloads\\Token Grabber\\Token Grabber\\",
+  "WorkspaceRootPath": "F:\\Git Project\\Token Grabber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|c:\\users\\nur mohammad rafi\\downloads\\token grabber\\token grabber\\token grabber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|f:\\git project\\token grabber\\token grabber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|solutionrelative:token grabber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|c:\\users\\nur mohammad rafi\\downloads\\token grabber\\token grabber\\token grabber\\token grabber.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|f:\\git project\\token grabber\\token grabber\\token grabber.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}|Token Grabber\\Token Grabber.csproj|solutionrelative:token grabber\\token grabber.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Token Grabber",
-              "DocumentMoniker": "C:\\Users\\Nur Mohammad Rafi\\Downloads\\Token Grabber\\Token Grabber\\Token Grabber\\Token Grabber.csproj",
+              "DocumentMoniker": "F:\\Git Project\\Token Grabber\\Token Grabber\\Token Grabber.csproj",
               "RelativeDocumentMoniker": "Token Grabber\\Token Grabber.csproj",
-              "ToolTip": "C:\\Users\\Nur Mohammad Rafi\\Downloads\\Token Grabber\\Token Grabber\\Token Grabber\\Token Grabber.csproj",
+              "ToolTip": "F:\\Git Project\\Token Grabber\\Token Grabber\\Token Grabber.csproj",
               "RelativeToolTip": "Token Grabber\\Token Grabber.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-15T18:21:41.805Z"
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nur Mohammad Rafi\\Downloads\\Token Grabber\\Token Grabber\\Token Grabber\\Program.cs",
+              "DocumentMoniker": "F:\\Git Project\\Token Grabber\\Token Grabber\\Program.cs",
               "RelativeDocumentMoniker": "Token Grabber\\Program.cs",
-              "ToolTip": "C:\\Users\\Nur Mohammad Rafi\\Downloads\\Token Grabber\\Token Grabber\\Token Grabber\\Program.cs",
+              "ToolTip": "F:\\Git Project\\Token Grabber\\Token Grabber\\Program.cs",
               "RelativeToolTip": "Token Grabber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACZAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T15:53:26.224Z",
               "EditorCaption": ""

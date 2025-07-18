@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Token Grabber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9098cc6ec789b499d739ac2fa31ea286aa3a9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e848a0d6d14f9469e724baae3f1970b42e15f3cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Token Grabber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Token Grabber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
