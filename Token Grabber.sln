@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Token Grabber", "Token Grabber\Token Grabber.csproj", "{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE4F14C-FE93-4E4D-A294-EB45557CA26C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9190685B-BEA7-4672-8FC3-1FF99553DB54}
+	EndGlobalSection
+EndGlobal
